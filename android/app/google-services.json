@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088770308667",
+    "project_id": "mattaharmonia-e294c",
+    "storage_bucket": "mattaharmonia-e294c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088770308667:android:960989388aef5f7fccba1e",
+        "android_client_info": {
+          "package_name": "com.mattatech.mattaharmonia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJX1WGCCxzq5edIxheV0VxWq6gtiQqyms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
